@@ -1,0 +1,5 @@
+{
+  "name":"hireai-frontend","version":"2.0.0","private":true,
+  "scripts":{"dev":"vite --host 0.0.0.0 --port 8000","build":"vite build","preview":"vite preview --host 0.0.0.0 --port 4173"},
+  "dependencies":{"@vitejs/plugin-react":"^4.3.3","axios":"^1.7.9","firebase":"^11.0.2","jspdf":"^2.5.1","pdfjs-dist":"^4.6.82","react":"^18.3.1","react-dom":"^18.3.1","react-router-dom":"^7.0.2"},"devDependencies":{"vite":"^5.4.10"}
+}
